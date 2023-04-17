@@ -1,7 +1,27 @@
 Collaborators:
 Collaborators on a personal repository can pull (read) the contents of the repository and push (write) changes to the repository.
 You can add unlimited collaborators on public and private repositories(with some per day limit restrictions). But, in a private repository, the owner of the repo can only grant write-access to the collaborators, and they can’t have the read-only access.
+contributers can have permissions to :
+Fork the repository
+Rename a branch other than the default branch
+Create, edit, and delete comments on commits, pull requests, and issues in the repository	
+Create, assign, close, and re-open issues in the repository	
+Manage labels for issues and pull requests in the repository	
+Manage milestones for issues and pull requests in the repository	
+Mark an issue or pull request in the repository as a duplicate	
+Create, merge, and close pull requests in the repository
+Enable and disable auto-merge for a pull request
+Apply suggested changes to pull requests in the repository	
+Create a pull request from a fork of the repository
+Submit a review on a pull request that affects the mergeability of the pull request	
+Create and edit a wiki for the repository	
+Create and edit releases for the repository	
+Act as a code owner for the repository
+Publish, view, or install packages
+Remove themselves as collaborators on the repository
 
+
+----------------------------------------------
 Contributers:
 When a user's set of email addresses is found in the commit history of a github repo, github marks that user as a contributor.
 
