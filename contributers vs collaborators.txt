@@ -1,0 +1,8 @@
+Collaborators:
+Collaborators on a personal repository can pull (read) the contents of the repository and push (write) changes to the repository.
+You can add unlimited collaborators on public and private repositories(with some per day limit restrictions). But, in a private repository, the owner of the repo can only grant write-access to the collaborators, and they can’t have the read-only access.
+
+Contributers:
+When a user's set of email addresses is found in the commit history of a github repo, github marks that user as a contributor.
+
+GH Enterprise docs seem to be consistent with contributors only being associated with email addresses.
